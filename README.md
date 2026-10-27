@@ -1,14 +1,10 @@
-A description of what you have created. 1-2 screenshots are recommended for the README.
-A working link to the hosted files (your GitHub Pages url)
-Section for Technical and Design Achievements
-
 ## Description
 
 This program creates a cat drawing using D3.js and SVG shapes. It uses circles, ellipses, rectangles, polygons, and lines to create the cat's features. There is also a simple animation that moves the cats eyebrows up and down.
 
 <img src = "image.png" alt="Cat drawing" width="400">
 
-## Project Link
+### Project Link
 https://madison-shaw0.github.io/a1-ghd3/
 
 ## Technical and Design Achievements
